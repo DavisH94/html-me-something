@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+#title {
+    color: red;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+}
+
+.story {
+    color: white;
+    max-width: 200ch;
+    text-align: center;
+        margin:0 auto;
+    font-size: 20px
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    color: yellow;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+footer {
+    color: lightblue;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 25px
+}
